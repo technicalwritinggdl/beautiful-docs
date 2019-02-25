@@ -1,16 +1,23 @@
-**DO YOU WANT TO BUILD AND WRITE GLORIOUS TECHNICAL DOCUMENTATION FULL TIME? EMAIL mark@helium.com. WE NEED YOU.**
-
 # Beautiful Docs
 
-I love documentation. If you work with/are writing code intended for usage and consumption by more than one person, you should love it, too. Documentation and other resources will make or break the success of your project. And the more open and collaborative you want development to be, the more crucial docs become.
+This is a repository for beautiful docs. We want to create a quick reference for documents that the Technical Writing GDL community find useful.
 
-With that in mind, here's a list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours. Thanks to various contributors, we now also have sections dedicated to [Writing about Documentation](#writing-about-docs) and [Tools for Generating Docs](#generating-docs).
+With that in mind, here's a list of docs and other resources that we find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours. This list also has sections dedicated to [Writing about Documentation](#writing-about-docs) and [Tools for Generating Docs](#generating-docs).
 
-This should be updated fairly regularly. As usual, **pull requests are encouraged**. 
+This repo is a fork of [Mark Phillips' Beutiful Docs](https://github.com/PharkMillups/beautiful-docs).
+
+## Collaboration
+
+This should be updated fairly regularly. **Pull requests are encouraged**. 
+
 * If you're contributing a link, be sure to include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.
-* All docs are listed in the order they were added. Keep this order when submitting your PR. 
+* All docs are listed in the order they were added. Keep this order when submitting your PR.
 
-[Mark](https://twitter.com/pharkmillups)
+Please submit new resources that would help our growing Technical Writing GDL community.
+
+You can check our Facebook Page or our Twitter.
+
+## The Docs
 
 ### And Now For The Docs 
 
